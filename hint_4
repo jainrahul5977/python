@@ -1,0 +1,7 @@
+2. make diffrent if condition for diffrent inputss.
+4. one if statement and 3 elif statement is used.
+5. while loop and guess the number.
+6. simple
+7. get two input from the user and use if statement whether the diffrence is less than .001 and more according to 
+    diffrence the output will be shown
+9. take input and use for loop to tha trange and use % oopetrator to check whether fully devisible or not if its than print.

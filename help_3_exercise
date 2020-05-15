@@ -1,0 +1,7 @@
+14. convert degree into radian and use thst vslue in sin function
+15. loop which increment in 15 to range from 0 to 350
+        convert that iterator value to radian
+            than put value in sin function
+                use round function to round upto 4 digits of decimal.
+17. check is devided by 4: if yes than check if divided by 100 && 400 than yes else no else yes
+

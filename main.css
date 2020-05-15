@@ -1,0 +1,12 @@
+body {
+    background: url("/home/rahul/Downloads/disussion_forum_image3.jpg") ;
+    width : 100%;
+    height: 100%;
+    filter: brightness(50%);
+
+}
+body img {
+    width : 200px;
+    height: 200px;
+}
+
